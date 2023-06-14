@@ -13,8 +13,10 @@ export default function Body() {
         inputText: originalText,
         summarySize: summarySize,
       });
+      if (response.data.length == 0) {
+        response.data = 'Please check the input'
+      }
       setSummaryText(response.data);
-      console.log(response.data)
     } catch (error) {
       setSummaryText(error);
     }
