@@ -1,0 +1,17 @@
+.header {
+    background-color: black; /* bg-success color */
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .header__container {
+    display: flex;
+    align-items: center;
+  }  
+  .header__heading {
+    font-family: 'Roboto Serif', serif;
+    color: white;
+    margin-left: 10px; /* Adjust the margin as needed */
+  }
+  

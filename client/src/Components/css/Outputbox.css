@@ -1,0 +1,10 @@
+.textbox {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    height: 60vh;
+    width: 40vw;
+}
+.outputbox {
+    margin: auto;
+}
