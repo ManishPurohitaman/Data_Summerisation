@@ -17,3 +17,6 @@ NLP utilizes various techniques and methodologies from fields such as linguistic
 
 NLP has numerous real-world applications, including information retrieval, customer support, content analysis, sentiment analysis, automated content generation, language translation, and many more. It plays a crucial role in enabling machines to understand, interpret, and interact with human language, facilitating communication between humans and computers in a more natural and efficient manner.
 
+ScreenShots
+![image](https://github.com/ManishPurohitaman/Data_Summerisation/assets/72268579/151ea53f-00a5-4f01-b574-256e04081b2f)
+
